@@ -12,7 +12,7 @@ Utilizing a flash loan from Aave, the attacker borrowed nearly $1 billion to gai
 **Swift Execution and Profit:**
 The attacker's manipulation, from borrowing to code execution, took less than 13 seconds, resulting in a net profit of around $80 million.
 
-**Post-Exploit Fallout:**``
+**Post-Exploit Fallout:**
 Beanstalk Farms acknowledged the attack, but immediate recovery seemed unlikely. The BEAN stablecoin's value dropped significantly, trading at around 14 cents instead of its $1 peg.
 
 **Lessons Learned:**
