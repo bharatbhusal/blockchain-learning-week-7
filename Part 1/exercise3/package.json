@@ -1,0 +1,12 @@
+{
+    "dependencies": {
+        "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+        "ethers": "^5.7.0",
+        "hardhat": "^2.19.2"
+    },
+    "scripts": {
+        "deploy": "npx hardhat run scripts/deploy.js --network localhost",
+        "test": "npx hardhat test",
+        "node": "npx hardhat node"
+    }
+}
